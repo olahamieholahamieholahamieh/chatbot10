@@ -12,7 +12,6 @@
     "node-telegram-bot-api": "^0.61.0",
     "openai": "^3.2.1"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/olahamieholahamieholahamieh/chatgpt.git"
